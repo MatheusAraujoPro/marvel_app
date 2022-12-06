@@ -6,5 +6,4 @@ data class Serie(
     var resourceId: String,
     var thumbnail: Thumbnail,
     var charactersList: List<CharacterItem>,
-    var bookMark: Boolean
 )
